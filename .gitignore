@@ -4,6 +4,8 @@ weights/
 
 # 大型数据集
 data/json
+data/corpus.ch
+data/corpus.en
 
 # 训练输出
 run/
