@@ -3,7 +3,7 @@
 weights/
 
 # 大型数据集
-data/
+data/json
 
 # 训练输出
 run/
